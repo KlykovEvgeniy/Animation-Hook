@@ -1,3 +1,5 @@
+//For TypeScript
+
 import { FC, ReactNode, RefObject, useEffect, useRef } from "react";
 import './animation.css';
 

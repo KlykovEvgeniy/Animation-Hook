@@ -1,3 +1,5 @@
+/* Here you can change animation settings */
+
 .none-vis {
     visibility: hidden;
     opacity: 0;
@@ -15,7 +17,7 @@
         transform: translateX(-50%);
     }
 
-    100% {
+    100%{
         opacity: 1;
         transform: translateX(0);
     }

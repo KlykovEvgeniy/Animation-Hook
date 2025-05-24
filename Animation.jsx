@@ -1,3 +1,5 @@
+//For JavaScript
+
 import { useEffect, useRef } from "react";
 import './animation.css';
 
